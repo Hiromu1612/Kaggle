@@ -1,0 +1,25 @@
+・分析コンペのプラットホーム
+    ・Kaggle：世界中の企業や省庁、研究機関がコンペを開催
+    
+    ・SIGNATE：国内の企業や省庁、研究機関がコンペを開催
+
+    ・TopCoder：プログラミングのコンテストのプラットフォームだが、分析コンペも開催される
+
+・各機能
+    ・ランキング・称号制度(Rankings)
+        Competition, Kernel, DiscussionにおけるVote(いいね)数に応じて順位付け
+        Novice, Contributor, Expert, Master, Grandmaster
+
+    ・クラウド上のデータ分析環境(Kernel)
+        コードの作成や公開されたコードのコピーができる
+
+    ・掲示板(Discussion)
+
+    ・データセットを公開する機能(Datasets)
+        データセットの公開・追加・ダウンロードができる
+
+    ・プログラミング言語からアクセスできるAPI(API)
+        Webサイトに訪れることなく、Kaggleの機能にアクセスしたり、自動化できる
+        分析コンペ一覧・予測値の提出・Leaderboardの取得・データセットの公開・Kernelのアップロードなど
+
+    ・おすすめトピック(Newsfeed)
