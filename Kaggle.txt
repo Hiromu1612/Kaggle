@@ -48,6 +48,7 @@
     ・スパース多クラス交差エントロピー誤差(sparce categorical cross entoropy error):多クラス分類でよく使われる ラベルが整数のとき
 
 
+
 ・最適化アルゴリズム(optimizer):
     1. バッチ勾配降下法(batch): 全ての学習セットのサンプル
     2. 確率的勾配降下法(Stochastic Gradient Descent, SGD): 無作為に1つのサンプル
