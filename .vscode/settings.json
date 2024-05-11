@@ -1,7 +1,10 @@
 {
     "cSpell.words": [
         "astype",
+        "countplot",
         "Kaggle",
+        "LGBM",
+        "lightgbm",
         "Pclass",
         "SIGNATE"
     ]
