@@ -1,11 +1,18 @@
 {
     "cSpell.words": [
         "astype",
+        "clfs",
         "countplot",
+        "figsize",
+        "iloc",
+        "ipywidgets",
+        "jslink",
         "Kaggle",
         "LGBM",
         "lightgbm",
         "Pclass",
-        "SIGNATE"
+        "preds",
+        "SIGNATE",
+        "yscale"
     ]
 }
